@@ -4,11 +4,19 @@ body {
     background-color: #FFFFFF;
 }
 
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
 /*-------Header----------*/
 
-.header {
+.header {}
 
-}
 
 .nav {}
 
@@ -109,7 +117,11 @@ body {
 
 .advantages-list {}
 
-.advantages-item {}
+.advantages-item {
+    
+         background-color: #FFFFFF;
+        
+}
 
 .advantages-title {
 font-weight: 500;
