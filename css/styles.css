@@ -159,10 +159,11 @@ letter-spacing: 0.02em;
 }
 
 .team-list {
-    background-color: #FFFFFF;
 }
 
-.team-member {}
+.team-member {
+    background-color: #FFFFFF;
+}
 
 .team-photo {}
 
