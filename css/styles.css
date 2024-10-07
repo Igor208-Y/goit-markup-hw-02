@@ -1,10 +1,3 @@
-ul {
-    list-style: none;
-}
-
-a {
-    text-decoration: none;
-}
 
 body {
     font-family: "Roboto", sans-serif;
@@ -163,11 +156,14 @@ body {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .team-list {}
 
-.team-member {}
+.team-member {
+    background-color: #FFFFFF;
+}
 
 .team-photo {}
 
@@ -199,6 +195,7 @@ body {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
  }
 
  .portfolio-list {}
